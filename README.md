@@ -1,7 +1,8 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-[![Build Status](https://catzguy.visualstudio.com/ContosoAir/_apis/build/status/catzguy.ContosoAir?branchName=master)](https://catzguy.visualstudio.com/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
+
+[![Build Status](https://catzguy.visualstudio.com/ContosoAir/_apis/build/status/catzguy.ContosoAir?branchName=master)](https://catzguy.visualstudio.com/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
