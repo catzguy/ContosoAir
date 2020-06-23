@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://catzguy.visualstudio.com/ContosoAir/_apis/build/status/catzguy.ContosoAir?branchName=master)](https://catzguy.visualstudio.com/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
 # Microsoft.Github CI Demo
 
