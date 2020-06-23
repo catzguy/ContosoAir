@@ -4,6 +4,8 @@
 
 [![Build Status](https://catzguy.visualstudio.com/ContosoAir/_apis/build/status/catzguy.ContosoAir?branchName=master)](https://catzguy.visualstudio.com/ContosoAir/_build/latest?definitionId=3&branchName=master)
 
+https://catzguy.visualstudio.com/ContosoAir/_apis/build/status/catzguy.ContosoAir?branchName=master
+
 Demo website application for Contoso Air.  
 Runs a nodejs server (Express v4.16) that stores customer booked flights in a CosmosDb database.
 
